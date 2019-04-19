@@ -1,6 +1,6 @@
 # Music Maker
 
-## Um Algoritmo Genético para gerar uma progressão de acordes usando apenas as notas brancas como notas raiz
+#### Um Algoritmo Genético para gerar uma progressão de acordes usando apenas as notas brancas como notas raiz
   
 O algoritmo dispõe-se em duas classes _no momento_: __Dna__ e __Crossover__.
 
