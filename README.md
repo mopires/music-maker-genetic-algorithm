@@ -1,4 +1,4 @@
-# Music Maker
+# Music Maker 
 
 #### Um Algoritmo Genético para gerar uma progressão de acordes usando apenas as notas brancas como notas raiz
   
@@ -11,3 +11,5 @@ Para gerar a população, o método construtor que gera os cromossomos (indivíd
 Neste momento, temos a definição do tamanho da população, a geração da população e a pontuação dos indivíduos (__Dna *objects*__).
 
 A classe __Crossover__ detém as tarefas de classificar a população baseando-se na pontuação de cada indivíduo e fazer o cruzamento de informações dos indivíduos selecionando-os aleatoriamente (*Até o momento*).
+
+<a href="https://github.com/users/mopires/projects/1">Projeto</a>
